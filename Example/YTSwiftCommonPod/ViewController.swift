@@ -8,11 +8,17 @@
 
 import UIKit
 
+import Pods_YTSwiftCommonPod_Example
+import YTSwiftCommonPod
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        let objYTCommonFeature = Validator()
+        print(objYTCommonFeature.isValidEmail("Test@gmail.com"))
+        
     }
 
     override func didReceiveMemoryWarning() {

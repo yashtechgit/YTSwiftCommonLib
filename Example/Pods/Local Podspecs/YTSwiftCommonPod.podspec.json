@@ -1,0 +1,22 @@
+{
+  "name": "YTSwiftCommonPod",
+  "version": "0.1.0",
+  "summary": "A short description of YTSwiftCommonPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yashtechgit/YTSwiftCommonPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yashtechgit": "yashtechnologies1@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yashtechgit/YTSwiftCommonPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YTSwiftCommonPod/Classes/**/*"
+}

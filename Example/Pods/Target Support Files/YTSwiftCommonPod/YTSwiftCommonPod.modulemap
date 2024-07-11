@@ -1,0 +1,6 @@
+framework module YTSwiftCommonPod {
+  umbrella header "YTSwiftCommonPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

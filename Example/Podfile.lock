@@ -1,0 +1,16 @@
+PODS:
+  - YTSwiftCommonPod (0.1.0)
+
+DEPENDENCIES:
+  - YTSwiftCommonPod (from `../`)
+
+EXTERNAL SOURCES:
+  YTSwiftCommonPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YTSwiftCommonPod: 9308f10110aade035fba5cb834a3b600bd884311
+
+PODFILE CHECKSUM: e199f3d9bf75f6d7d8aa5071ca876a8e05fb6079
+
+COCOAPODS: 1.15.2
