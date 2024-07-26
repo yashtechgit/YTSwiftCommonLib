@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'YTSwiftCommonPod'
-  s.version          = '0.1.1'
+  s.version          = 'v0.1.2'
   s.summary         = 'A Swift library for common utilities and extensions.'
 
 
