@@ -94,6 +94,8 @@ public class Validator {
 
     // MARK: - URL Validation
 
+    
+
     /// Validates if the provided string is a valid URL.
     /// - Parameter urlString: The URL string to validate.
     /// - Returns: `true` if the URL is valid, otherwise `false`.
